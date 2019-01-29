@@ -1,16 +1,12 @@
-# chef_profile
+# Chef Profile
 
-A new Flutter project.
+A clean chef profile screen made with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5917863-Cooking-APP-1/attachments/1272900
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/lL2pZoXMOYk
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190129-035617](https://user-images.githubusercontent.com/8137504/51920448-6b99ea00-240b-11e9-9dd7-2586c12b3d1b.png)
+![screenshot_20190129-035621](https://user-images.githubusercontent.com/8137504/51920449-6b99ea00-240b-11e9-952e-cbdabce340ab.png)
